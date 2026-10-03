@@ -1,0 +1,31 @@
+v 4
+file . "comparador_2bits_tb.vhd" "e2a72878114c55fb73063c7af80540219a43927d" "20261003012842.258":
+  entity comparador_2bits_tb at 1( 0) + 0 on 43;
+  architecture behavioral of comparador_2bits_tb at 7( 106) + 0 on 44;
+file . "decodificador_2a4_tb.vhd" "2240b063a698a717fadb985b8b9d422b2ec19c33" "20261003011154.137":
+  entity decodificador_2a4_tb at 1( 0) + 0 on 39;
+  architecture behavioral of decodificador_2a4_tb at 7( 108) + 0 on 40;
+file . "mux_2a1_tb.vhd" "cc11b420a9f5c19bb692826941b1945482559259" "20261003004526.381":
+  entity mux_2a1_tb at 1( 0) + 0 on 35;
+  architecture behavioral of mux_2a1_tb at 7( 195) + 0 on 36;
+file . "sumador_2bits_tb.vhd" "0ec87e7d0185c4f194837b91112acb94d112ad43" "20261003001046.414":
+  entity sumador_2bits_tb at 1( 0) + 0 on 31;
+  architecture behavioral of sumador_2bits_tb at 8( 291) + 0 on 32;
+file . "sumador_2bits.vhd" "e470c971c9ebe36ca066397dd28f325c5e976d99" "20261003001036.499":
+  entity sumador_2bits at 1( 0) + 0 on 29;
+  architecture behavioral of sumador_2bits at 13( 538) + 0 on 30;
+file . "compuerta_and.vhd" "4a375ea8775a9e9827c7a8a720615b47f817af62" "20261002225007.501":
+  entity compuerta_and at 1( 0) + 0 on 19;
+  architecture behavioral of compuerta_and at 12( 381) + 0 on 20;
+file . "compuerta_and_tb.vhd" "74b34e46c768040ae9da6b7998d35162e5bb2035" "20261002225014.071":
+  entity compuerta_and_tb at 1( 0) + 0 on 21;
+  architecture behavioral of compuerta_and_tb at 7( 262) + 0 on 22;
+file . "mux_2a1.vhd" "ca73977edf027946d44b70248492876e02a05d2a" "20261003004518.695":
+  entity mux_2a1 at 1( 0) + 0 on 33;
+  architecture dataflow of mux_2a1 at 13( 443) + 0 on 34;
+file . "decodificador_2a4.vhd" "9a9d8e39717675bfb7808b40614933d1681506a0" "20261003011148.325":
+  entity decodificador_2a4 at 1( 0) + 0 on 37;
+  architecture behavioral of decodificador_2a4 at 11( 373) + 0 on 38;
+file . "comparador_2bits.vhd" "8b488f48d4ead41d5ff1546bc77ddf705e28813b" "20261003012834.134":
+  entity comparador_2bits at 1( 0) + 0 on 41;
+  architecture dataflow of comparador_2bits at 15( 652) + 0 on 42;
